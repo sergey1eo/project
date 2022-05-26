@@ -1,0 +1,3 @@
+﻿  Individualka.cpp
+D:\Users\User\Desktop\учеба\с++\Individualka\Individualka\Individualka.cpp(65,79): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  Individualka.vcxproj -> D:\Users\User\Desktop\учеба\с++\Individualka\x64\Debug\Individualka.exe
